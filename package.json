@@ -1,0 +1,27 @@
+{
+  "name": "chat-y-salas",
+  "version": "1.0.0",
+  "description": "Chat en la api básica con socket.io\r Integrante: Wilmer José pereira salgado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilmerPereirajps/Chat_api_-socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilmerPereirajps/Chat_api_-socket/issues"
+  },
+  "homepage": "https://github.com/WilmerPereirajps/Chat_api_-socket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.1.3"
+  }
+}
